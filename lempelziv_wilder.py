@@ -1,28 +1,30 @@
 # -*- coding: cp1252 -*-
 #The MIT License (MIT)
 #
-#Copyright (c) 2014 wilderlopes
+#Copyright (c) 2014 Wilder Lopes
 #
-#Permission is hereby granted, free of charge, to any person #obtaining a copy
-#of this software and associated documentation files (the #"Software"), to deal
-#in the Software without restriction, including without #limitation the rights
-#to use, copy, modify, merge, publish, distribute, sublicense, #and/or sell
+#Permission is hereby granted, free of charge, to any person obtaining a copy
+#of this software and associated documentation files (the "Software"), to deal
+#in the Software without restriction, including without limitation the rights
+#to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 #copies of the Software, and to permit persons to whom the #Software is
 #furnished to do so, subject to the following conditions:
 #
+#The above copyright notice and this permission notice shall be included in all
+#copies or substantial portions of the Software.
 #
-#THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, #EXPRESS OR
-#IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF #MERCHANTABILITY,
-#FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO #EVENT SHALL THE
-#AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR #OTHER
-#LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, #ARISING FROM,
-#OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER #DEALINGS IN THE
+#THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+#IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+#FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+#AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+#LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+#OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 #SOFTWARE.
 
-# Universidade de São Paulo - Escola Politécnica
-# PTC 5600 - Tópicos sobre Teoria da Informação
-# 3º trimestre - 2012 - Prof. Cristiano Panazio
-# Lista 4 - Implementação do algoritmo Lempel-Ziv
+# Universidade de SÃ£o Paulo - Escola PolitÃ©cnica
+# PTC 5600 - TÃ³picos sobre Teoria da InformaÃ§Ã£o
+# 3Âº trimestre - 2012 - Prof. Cristiano Panazio
+# Lista 4 - ImplementaÃ§Ã£o do algoritmo Lempel-Ziv
 # Estudante: Wilder Bezerra Lopes - 7282551
 
 from __future__ import division
